@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yusra-shahzad](https://github.com/Yusra-shahzad)
 
-- 💬 Ask me about **Html , Css , github many more**
+- 💬 Ask me about **Html , Css , github many more ...**
 
 - 📫 How to reach me **yusrashehzad8818@gmail.com**
 
