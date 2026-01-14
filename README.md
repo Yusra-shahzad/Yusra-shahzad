@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusra Shahzad</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusra-shahzad" alt="yusra-shahzad" /></a> </p>
